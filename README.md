@@ -4,4 +4,4 @@
 - 🌎 Soy de Argentina.
 - 🕹 En mis tiempos libre me gusta jugar al futbol, estar con amigos y jugar videojuegos.
 - 🎓 Soy estudiante de la carrera de Ingenieria en Informatica.
-- 📬 Puedes contactarme por [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/fd/)
+- 📬 Puedes contactarme por [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/fd/).
