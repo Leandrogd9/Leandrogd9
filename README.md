@@ -4,4 +4,4 @@
 - 🌎 Soy de Argentina.
 - 🕹 En mis tiempos libre me gusta jugar al futbol, estar con amigos y jugar videojuegos.
 - 🎓 Soy estudiante de la carrera de Ingenieria en Informatica.
-- 📬 Puedes contactarme por [![alt='linkedin' height='30](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrogduarte/)
+- 📬 Puedes contactarme por [![alt='linkedin' height='10'](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrogduarte/)
